@@ -186,7 +186,9 @@ button {
     font-weight: 600;
     font-size: 15px;
     line-height: 18px;
-    background: url('/img/icon/check-icon.svg') no-repeat left;
+    background: url('../img/icon/check-icon.svg');
+    background-repeat: no-repeat;
+    background-position: left;
     color: #FFFFFF;
 }
 .hero__descr:not(:last-child) {
@@ -278,7 +280,7 @@ button {
 
 .services {
     padding-top: 200px;
-    background-image: url(/img/services/bg.png);
+    background-image: url(../img/services/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -318,7 +320,9 @@ button {
     height: 25px;
     padding-top: 3px;
     padding-left: 40px;
-    background: url('/img/icon/check-icon.svg') no-repeat left;
+    background: url('../img/icon/check-icon.svg');
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .carts__descr p:not(:last-child) {
     margin-bottom: 15px;
@@ -327,7 +331,9 @@ button {
 /*================================================*/
 
 .description {
-    background: url('/img/description/bg.jpg') no-repeat left;
+    background: url('../img/description/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
     padding-top: 65px;
 }
 .description__container {
@@ -359,7 +365,8 @@ button {
 
 .stock {
     padding-top: 180px;
-    background: url('/img/stock/bg.png') no-repeat;
+    background: url('../img/stock/bg.png');
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 .stock__list {
@@ -413,7 +420,7 @@ button {
 
 .recommendation {
     padding-top: 130px;
-    background-image: url('/img/recommendation/bg.png');
+    background-image: url('../img/recommendation/bg.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -455,7 +462,7 @@ button {
     font-weight: 600;
     font-size: 15px;
     line-height: 25px;
-    background-image: url('/img/icon/check-icon.svg');
+    background-image: url('../img/icon/check-icon.svg');
     background-repeat: no-repeat;
     background-position: left top;
 }
@@ -502,7 +509,9 @@ button {
 /*================================================*/
 
 .bar {
-    background: url('/img/bar/bg.png') no-repeat left;
+    background: url('../img/bar/bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
     background-size: cover;
     padding-top: 65px;
 }
@@ -533,7 +542,7 @@ button {
     font-weight: 600;
     font-size: 15px;
     line-height: 25px;
-    background-image: url('/img/icon/check-icon.svg');
+    background-image: url('../img/icon/check-icon.svg');
     background-repeat: no-repeat;
     background-position: left center;
 }
@@ -622,7 +631,7 @@ button {
     font-weight: 600;
     font-size: 15px;
     line-height: 25px;
-    background-image: url('/img/icon/check-icon.svg');
+    background-image: url('../img/icon/check-icon.svg');
     background-repeat: no-repeat;
     background-position: left center;
 }
@@ -734,7 +743,9 @@ button {
 .footer {
     padding-top: 100px;
     padding-bottom: 115px;
-    background: url('/img/footer/bg.jpg') no-repeat left;
+    background: url('../img/footer/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
     background-size: cover;
 }
 .footer__content {
