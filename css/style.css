@@ -121,7 +121,7 @@ button {
 .header__nav {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 120px;
+    margin-bottom: 125px;
 }
 .header__logo {
     margin-right: auto;
