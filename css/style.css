@@ -505,7 +505,7 @@ button {
 /*================================================*/
 
 .bar {
-    background: url('../img/bar/bg.png') no-repeat left;
+    background: url('../img/bar/bg.webp') no-repeat left;
     background-size: cover;
     padding-top: 65px;
 }
